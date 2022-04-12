@@ -9,6 +9,7 @@ padding: 0;
 box-sizing: border-box;
 }
 
+
 /* elementos bases */
 body {
 background: var(--preta);
@@ -159,14 +160,34 @@ margin: 15px;
 
 .rodape{
   background: #aaa;
-  height: 100px;
+  height: 100%;
   margin-bottom: 0;
-  
+  color: #141414;
  
 }
 .rodape .author{
   color: #141414;
   padding-top: 43px;
+  margin-top: 89px;
+  
+}
+.rodape .colunaAuthor{
+  background: rgb(186 180 180);
+}
+
+.rodape p{
+  font-size: 15px;
+}
+
+.contatos{
+  margin-top: 66px;
+}
+.imgSocial{
+  width:20px;
+  height:20px;
+}
+.rodape .tel{
+  margin-top: 30px;
 }
 
 

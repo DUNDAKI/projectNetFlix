@@ -10,6 +10,7 @@
       width: 100%;
       margin: 5px;
   }
+ 
   
   .carousel-filmes{
       border: none;
@@ -18,5 +19,11 @@
   .search{
     display: none;
   }
+
+  .rodape .tel{
+    margin-top: 40px;
+  }
   
 }
+
+
